@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/KASHADII/leetcoding/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/KASHADII/leetcoding/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/KASHADII/leetcoding/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/KASHADII/leetcoding/tree/master/1732-find-the-highest-altitude) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KASHADII/leetcoding/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/KASHADII/leetcoding/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
