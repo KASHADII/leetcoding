@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KASHADII/leetcoding/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KASHADII/leetcoding/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/KASHADII/leetcoding/tree/master/0217-contains-duplicate) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KASHADII/leetcoding/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
