@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KASHADII/leetcoding/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KASHADII/leetcoding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KASHADII/leetcoding/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/KASHADII/leetcoding/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/KASHADII/leetcoding/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KASHADII/leetcoding/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/KASHADII/leetcoding/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/KASHADII/leetcoding/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/KASHADII/leetcoding/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KASHADII/leetcoding/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/KASHADII/leetcoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
