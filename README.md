@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KASHADII/leetcoding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KASHADII/leetcoding/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KASHADII/leetcoding/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KASHADII/leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KASHADII/leetcoding/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KASHADII/leetcoding/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/KASHADII/leetcoding/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/KASHADII/leetcoding/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KASHADII/leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KASHADII/leetcoding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/KASHADII/leetcoding/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/KASHADII/leetcoding/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KASHADII/leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KASHADII/leetcoding/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/KASHADII/leetcoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
