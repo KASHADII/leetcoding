@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KASHADII/leetcoding/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/KASHADII/leetcoding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KASHADII/leetcoding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KASHADII/leetcoding/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KASHADII/leetcoding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/KASHADII/leetcoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KASHADII/leetcoding/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/KASHADII/leetcoding/tree/master/1748-sum-of-unique-elements) |
